@@ -1,0 +1,4 @@
+Token address: thea4NWzuZWEVdvb6c5EML69hVtdTC3pAYqSxvbVfDD.json
+Token account: CqgzxsVcWgDeFrThprNHEkPQGMHZLKGpB4NeiqrEbyFf
+
+Main address: mrtPKucT9RNEJ2K3k5fDmjBC1kDdNYQdwdnZ9BhJHYW.json
